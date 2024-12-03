@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eva3 Vacaciones</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="empty">No hay lugares para mostrar</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="btnAdd">Agregar Lugar</string>
+    <string name="btnBack">Regresar</string>
+    <string name="cost_pert_night">x Noche</string>
+    <string name="transfer_cost">Traslado</string>
+    <string name="comments">Comentarios</string>
+    <string name="place">Lugar</string>
+    <string name="image">Imagen Ref</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="order">Orden</string>
+    <string name="cost_Alojamiento">Costo Alojamiento</string>
+    <string name="cost_traslado">Costo traslado</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

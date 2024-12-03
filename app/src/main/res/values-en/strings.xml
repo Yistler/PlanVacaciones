@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty">There are no places to show</string>
+    <string name="btnAdd">Add Place</string>
+    <string name="btnBack">Back</string>
+    <string name="cost_pert_night">x Night</string>
+    <string name="transfer_cost">Trasfer</string>
+    <string name="comments">Comments:</string>
+    <string name="place">Place</string>
+    <string name="image">Image Ref</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="order">Order</string>
+    <string name="cost_Alojamiento">Accommomdation cost</string>
+    <string name="cost_traslado">Transfer cost</string>
+</resources>
