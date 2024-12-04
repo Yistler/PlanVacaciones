@@ -62,4 +62,6 @@ los costos en dólares estadounidenses (USD) en lugar de la moneda local (CLP). 
    ```bash
    git clone https://github.com/Yistler/PlanVacaciones.git
 
-
+![Pantalla principal](https://raw.githubusercontent.com/Yistler/PlanVacaciones/refs/heads/main/img/detalle.png)
+![Pantalla agregar](https://raw.githubusercontent.com/Yistler/PlanVacaciones/refs/heads/main/img/formulario.png)
+![Pantalla editar](https://raw.githubusercontent.com/Yistler/PlanVacaciones/refs/heads/main/img/lista.png)
